@@ -1,0 +1,14 @@
+df=pd.read_csv('water_advisory_map_data_2022_11_17.csv')\n
+          "df"
+        ]
+      },
+      {
+        "cell_type": "code",
+        "execution_count": null,
+        "metadata": {
+          "id": "81mCBbY61OYs",
+          "outputId": "31922506-b5e9-44c5-84f1-43362a04cf80"
+        },
+        "outputs": [
+          {
+            "data": {
